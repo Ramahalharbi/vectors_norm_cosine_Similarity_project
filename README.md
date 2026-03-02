@@ -6,7 +6,7 @@ This project recommends the **best study partner for each student** using:
 - **Vector representation** of students  
 - **Dot product** and **cosine similarity** to measure similarity  
 
-Even without a dataset, the project demonstrates how students can be compared mathematically to suggest compatible study partners.
+ the project demonstrates how students can be compared mathematically to suggest compatible study partners.
 
 ---
 
