@@ -1,0 +1,1 @@
+# vectors_norm_cosine_Similarity_project
